@@ -1,6 +1,6 @@
 
-```markdown
-# Lottery Demo Application
+<h1 align="center">Lottery Demo Application</h1>
+
 
 This project is an Android application for managing and viewing lottery draws, demonstrating the use of modern Android development practices, including the MVVM architecture, Jetpack Compose, and the Repository pattern.
 
