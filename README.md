@@ -158,11 +158,13 @@ fun LotteryListScreen(viewModel: LotteryListViewModel = hiltViewModel()) {
 
 #### Lottery Draw List Screen
 
-![Screenshot](Screenshot 2024-08-04 at 23.03.21.png)
+<img width="296" alt="Screenshot 2024-08-04 at 23 03 28" src="https://github.com/user-attachments/assets/eaf78927-103f-4ba0-8a6f-b4d0814254a4">
+
+
 
 #### Lottery Draw Details Screen
 
-![Lottery Draw Details Screen](path/to/Screenshot 2024-08-04 at 23.03.28.png)
+<img width="306" alt="Screenshot 2024-08-04 at 23 03 21" src="https://github.com/user-attachments/assets/6663df63-72d2-46ef-bc68-5cc19f7b87c3">
 
 ### Getting Started
 
